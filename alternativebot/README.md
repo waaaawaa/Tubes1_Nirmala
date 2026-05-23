@@ -1,1 +1,0 @@
-Folder untuk alternatif bot
