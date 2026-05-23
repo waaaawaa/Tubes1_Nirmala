@@ -9,14 +9,14 @@ Bot menggunakan strategi greedy dengan memilih tindakan terbaik pada setiap kond
 - BOTNIRMALA → menyerang musuh terdekat secara agresif
 - BOTKEDUA → fokus menyerang terus menerus
 - BOTKETIGA → fokus bertahan dan menghindari serangan
-- BOTKEEMPAT → patroli arena sambil scanning musuh :contentReference[oaicite:1]{index=1}
+- BOTKEEMPAT → patroli arena sambil scanning musuh.
 
 ## Requirement
 Program membutuhkan:
 - Java JDK
 - Robocode Tank Royale
 - Visual Studio Code / Visual Studio
-- Bahasa pemrograman C# :contentReference[oaicite:2]{index=2}
+- Bahasa pemrograman C# 
 
 ## Cara Menjalankan
 1. Clone repository GitHub
@@ -30,10 +30,10 @@ Beberapa kendala yang dihadapi saat pengembangan:
 - Bot terkadang menabrak dinding arena
 - Radar kehilangan target musuh
 - Bot masih terlalu fokus menyerang
-- Strategi greedy hanya mempertimbangkan kondisi saat ini :contentReference[oaicite:3]{index=3}
+- Strategi greedy hanya mempertimbangkan kondisi saat ini 
 
 ## Author
 Kelompok NIRMALA
 - Raisa Fazila Faisal (124140006)
 - Awra Hilmi (124140048)
-- Shafa Ayutyas Dewi (124140168) :contentReference[oaicite:4]{index=4}
+- Shafa Ayutyas Dewi (124140168) 
